@@ -1,0 +1,12 @@
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\SoundExample\bin\Debug\SoundExample.exe.config
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\SoundExample\bin\Debug\SoundExample.exe
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\SoundExample\bin\Debug\SoundExample.pdb
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\SoundExample\bin\Debug\SoundExample.xml
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\SoundExample\obj\Debug\01.SoundExample.vbproj.AssemblyReference.cache
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\SoundExample\obj\Debug\SoundExample.Form1.resources
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\SoundExample\obj\Debug\SoundExample.Resources.resources
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\SoundExample\obj\Debug\01.SoundExample.vbproj.GenerateResource.cache
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\SoundExample\obj\Debug\01.SoundExample.vbproj.CoreCompileInputs.cache
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\SoundExample\obj\Debug\SoundExample.exe
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\SoundExample\obj\Debug\SoundExample.xml
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\SoundExample\obj\Debug\SoundExample.pdb

@@ -1,0 +1,11 @@
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\GameFunctionExample\파리잡기\bin\Debug\파리잡기.exe.config
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\GameFunctionExample\파리잡기\bin\Debug\파리잡기.exe
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\GameFunctionExample\파리잡기\bin\Debug\파리잡기.pdb
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\GameFunctionExample\파리잡기\bin\Debug\파리잡기.xml
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\GameFunctionExample\파리잡기\obj\Debug\파리잡기.Form1.resources
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\GameFunctionExample\파리잡기\obj\Debug\파리잡기.Resources.resources
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\GameFunctionExample\파리잡기\obj\Debug\98.파리잡기.vbproj.GenerateResource.cache
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\GameFunctionExample\파리잡기\obj\Debug\98.파리잡기.vbproj.CoreCompileInputs.cache
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\GameFunctionExample\파리잡기\obj\Debug\파리잡기.exe
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\GameFunctionExample\파리잡기\obj\Debug\파리잡기.xml
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\GameFunctionExample\파리잡기\obj\Debug\파리잡기.pdb

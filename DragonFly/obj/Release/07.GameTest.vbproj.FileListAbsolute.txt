@@ -1,0 +1,12 @@
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\GameTest\bin\Release\GameTest.exe.config
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\GameTest\bin\Release\GameTest.exe
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\GameTest\bin\Release\GameTest.pdb
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\GameTest\bin\Release\GameTest.xml
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\GameTest\obj\Release\GameTest.Form1.resources
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\GameTest\obj\Release\GameTest.Resources.resources
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\GameTest\obj\Release\07.GameTest.vbproj.GenerateResource.cache
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\GameTest\obj\Release\07.GameTest.vbproj.CoreCompileInputs.cache
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\GameTest\obj\Release\GameTest.exe
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\GameTest\obj\Release\GameTest.xml
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\GameTest\obj\Release\GameTest.pdb
+C:\Users\enter\Desktop\비주얼베이직\GameFunctionExample\GameTest\obj\Release\07.GameTest.vbproj.AssemblyReference.cache

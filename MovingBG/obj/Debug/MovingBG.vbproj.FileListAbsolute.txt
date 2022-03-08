@@ -1,0 +1,12 @@
+C:\Users\ckang-laptop\Desktop\비쥬얼베이직\GameFunctionExample\MovingBG\bin\Debug\MovingBG.exe.config
+C:\Users\ckang-laptop\Desktop\비쥬얼베이직\GameFunctionExample\MovingBG\bin\Debug\MovingBG.exe
+C:\Users\ckang-laptop\Desktop\비쥬얼베이직\GameFunctionExample\MovingBG\bin\Debug\MovingBG.pdb
+C:\Users\ckang-laptop\Desktop\비쥬얼베이직\GameFunctionExample\MovingBG\bin\Debug\MovingBG.xml
+C:\Users\ckang-laptop\Desktop\비쥬얼베이직\GameFunctionExample\MovingBG\obj\Debug\MovingBG.vbproj.AssemblyReference.cache
+C:\Users\ckang-laptop\Desktop\비쥬얼베이직\GameFunctionExample\MovingBG\obj\Debug\MovingBG.Form1.resources
+C:\Users\ckang-laptop\Desktop\비쥬얼베이직\GameFunctionExample\MovingBG\obj\Debug\MovingBG.Resources.resources
+C:\Users\ckang-laptop\Desktop\비쥬얼베이직\GameFunctionExample\MovingBG\obj\Debug\MovingBG.vbproj.GenerateResource.cache
+C:\Users\ckang-laptop\Desktop\비쥬얼베이직\GameFunctionExample\MovingBG\obj\Debug\MovingBG.vbproj.CoreCompileInputs.cache
+C:\Users\ckang-laptop\Desktop\비쥬얼베이직\GameFunctionExample\MovingBG\obj\Debug\MovingBG.exe
+C:\Users\ckang-laptop\Desktop\비쥬얼베이직\GameFunctionExample\MovingBG\obj\Debug\MovingBG.xml
+C:\Users\ckang-laptop\Desktop\비쥬얼베이직\GameFunctionExample\MovingBG\obj\Debug\MovingBG.pdb

@@ -1,0 +1,12 @@
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\game_example\shooting_game\obj\Debug\shooting_game.vbprojAssemblyReference.cache
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\game_example\shooting_game\obj\Debug\game_example.게임.resources
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\game_example\shooting_game\obj\Debug\game_example.Resources.resources
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\game_example\shooting_game\obj\Debug\shooting_game.vbproj.GenerateResource.cache
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\game_example\shooting_game\obj\Debug\shooting_game.vbproj.CoreCompileInputs.cache
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\game_example\shooting_game\bin\Debug\game_example.exe.config
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\game_example\shooting_game\bin\Debug\game_example.exe
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\game_example\shooting_game\bin\Debug\game_example.pdb
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\game_example\shooting_game\bin\Debug\game_example.xml
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\game_example\shooting_game\obj\Debug\game_example.exe
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\game_example\shooting_game\obj\Debug\game_example.xml
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\game_example\shooting_game\obj\Debug\game_example.pdb
